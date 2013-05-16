@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1368704118000 92565 f2bb45fabd6406406d76e7844e33957c30226742 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable/tati.png
+1368701583000 2254 4d9307ad51c08bad52ceab1851c408558360032f /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable/bar.png
+1368682007000 244 ab96f524f8b3ccbe6f8e179b67a186fd16a4aac9 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/values/strings.xml
+1368684365000 66608 4fda4c2261e27905ce0b876bf6618a44b68cd74e /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable/shiro640_480.jpg
+1368682004000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/values-v14/styles.xml
+1368682003000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable-xxhdpi/ic_launcher.png
+1368682003000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable-mdpi/ic_launcher.png
+1368682007000 1718 51ce1ae5444703963ad9f9e948745ba7c3660fd3 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/values/styles.xml
+1368682003000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable-hdpi/ic_launcher.png
+1368682003000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable-xhdpi/ic_launcher.png
+1368704258000 3476 2f51f0a6f74c2dd8d845ef886220d3264dccbceb /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/layout/activity_fullscreen.xml
+1368682007000 489 69d532142c914e35dd14b9c42adf646f0f223949 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/values/attrs.xml
+1368682007000 77 279f2987057cb473bdb9ffc8bdc3d1740fc241cb /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/values/colors.xml
+1368701752000 1746 88472d564998a8bd78adaa70dcc84ddc9eb14323 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/drawable/bar2.png
+1368682007000 1078 2122be1c18de878aab98422ac03172cee9d1afe1 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/src/main/res/values-v11/styles.xml

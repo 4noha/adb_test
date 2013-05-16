@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1368704271000 3326 530543d3d07fdb7dbe9d231080c95dc48e2782e9 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/FullscreenActivity.class
+1368704271000 486 63ac68f46e8d105688268eed043ac3a9a52515a2 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$string.class
+1368682077000 2049 26fdb07f56e13560e8b2ff4add3e3bf7cdbfb757 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/util/SystemUiHiderHoneycomb$1.class
+1368682077000 1484 eba806fc3639717f761b3fba6b75f08f26381bd6 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/util/SystemUiHiderBase.class
+1368704271000 541 959fde1677761fc0dde9800f63df501196e157fa /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$drawable.class
+1368704271000 424 4b644fa520aa542645435b6fff19cb92dd55180e /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$layout.class
+1368682004000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/libs/android-support-v4.jar
+1368682077000 2270 87b5dd8d6e2644a28c3ab2702369f8bb6a810f15 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/util/SystemUiHiderHoneycomb.class
+1368704271000 645 5263cb056de49ef180a28861d3a989360fa7f07a /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$styleable.class
+1368682077000 307 644488d6e55c91db71efc3ed536f9b5dcc6dc6f1 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/util/SystemUiHider$OnVisibilityChangeListener.class
+1368682077000 457 1987260bfdbf274d121f9fc0187e5c3e9c0e5187 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$attr.class
+1368682077000 2077 d23694256a9f6422cdbf63e6c5c4fe1645c2c02c /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/util/SystemUiHider.class
+1368688005000 1969 4f017ee72171d022a882e0ca6ee4b455ae2d4d17 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/FullscreenActivity$1.class
+1368688005000 1029 03cdfd7588b0737afe9bf009617cd0bc7e535522 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/FullscreenActivity$2.class
+1368704271000 636 415ee5bdf8c9990f105507bca7fe6eacc2aa282a /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$id.class
+1368688005000 959 cde7f906331deffa9299bddf55185a26431b8cf1 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/FullscreenActivity$3.class
+1368688005000 854 8014ab4550a3313de57073147f8046e61fc1204a /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/FullscreenActivity$4.class
+1368682077000 355 4ce362c84abcd529ea60adbcd9b5972131c80eae /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/BuildConfig.class
+1368704271000 605 13e97309c10a397699b3817c1a3f43d392f1f631 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$style.class
+1368682077000 659 cffa31a67148d48e9d6d2bcb602946e10fecbfb6 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/util/SystemUiHider$1.class
+1368704271000 737 1e469ea01f3de5ba242a7c18b4b8ba7f636c53bf /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R.class
+1368682077000 415 539966dade6ac286f1bcab9fdc18f4339f86a030 /Users/nokkii/AndroidStudioProjects/adbgametest/adbgametest/build/classes/debug/com/example/adbgametest/R$color.class
